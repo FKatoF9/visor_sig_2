@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #4CAF50;
+    color: white;
+    margin: 0;
+    padding: 10px;
+}
+
+#mapa {
+    height: 90vh;
+    width: 100%;
+}
+
+.leaflet-popup-content img {
+    max-width: 200px;
+    height: auto;
+}
